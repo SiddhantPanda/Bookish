@@ -32,6 +32,8 @@ This is one of the project in Udacity's React Nanodegree.
 ## Highlights:
 
 -> Created a new JS file for each component; following DOT (Do One Thing).
+
+
 -> Component state is passed down from parent to child component. setState() is used to modify the state of the component.
 
 ## Backend Server
