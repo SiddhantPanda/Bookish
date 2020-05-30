@@ -1,6 +1,6 @@
 # MyReads Project
 
-This is one of the project in Udacity's React Nanodegree.
+This project keeps track of the books that you're reading, want to read or completed it.
 
 ## Getting Started
 
