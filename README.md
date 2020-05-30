@@ -1,6 +1,6 @@
 # MyReads Project
 
-This project keeps track of the books that you're reading, want to read or completed it.
+This project keeps track of the books that you're reading, want to read or those that you've completed.
 
 ## Getting Started
 
